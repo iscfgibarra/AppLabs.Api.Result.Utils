@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppLabs.Api.Result.Utils", "src\AppLabs.Api.Result.Utils\AppLabs.Api.Result.Utils.csproj", "{EEEF083B-4D05-4ADD-8FD5-EDD01B35CD31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEEF083B-4D05-4ADD-8FD5-EDD01B35CD31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEEF083B-4D05-4ADD-8FD5-EDD01B35CD31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEEF083B-4D05-4ADD-8FD5-EDD01B35CD31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEEF083B-4D05-4ADD-8FD5-EDD01B35CD31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

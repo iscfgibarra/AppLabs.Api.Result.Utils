@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>AppLabs.Api.Result.Utils</Title>
+        <Authors>Francisco Gerardo Ibarra Pérez</Authors>
+    </PropertyGroup>
+
+</Project>
